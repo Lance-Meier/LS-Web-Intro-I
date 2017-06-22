@@ -1,0 +1,41 @@
+* {
+  margin : 0;
+  padding: 0;
+}
+.main {
+  width: 470px;
+  height: 436px;
+  margin: auto;
+}
+.red {
+  width: 100%;
+  height: 63px;
+  background: red;
+}
+.container {
+  height: 312px;
+  width: 100%;
+}
+.container div {
+  height: 312px;
+  display: inline-block;
+}
+.left {
+  width: 156px;
+  background: blue;
+  float: left;
+}
+.center {
+  width: 158px;
+  background: purple;
+}
+.right {
+  width: 156px;
+  background: yellow;
+  float: right;
+}
+.green {
+  width: 100%;
+  height: 61px;
+  background: green;
+}

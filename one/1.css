@@ -1,0 +1,23 @@
+.main {
+  width: 473px;
+  height: 537px;
+  background: yellow;
+  margin: auto;
+}
+.a {
+  width: 100%;
+  height: 63px;
+  background: red;
+}
+.b {
+  width: 332px;
+  height: 437px;
+  background: blue;
+  margin: auto;
+}
+.c {
+  width: 332px;
+  height: 37px;
+  background: green;
+  margin: auto;
+}
